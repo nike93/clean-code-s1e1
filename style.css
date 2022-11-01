@@ -117,7 +117,7 @@
   margin: 16px 0 20px;
 }
 
-#new-task {
+.adding__input {
   width: 318px;
 }
 
@@ -161,7 +161,7 @@
 }
 
 /* Completed */
-#done-tasks .list__label {
+.done__list .list__label {
   text-decoration: line-through;
   color: #888;
 }
